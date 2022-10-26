@@ -16,3 +16,11 @@ The ‘AcentaDollar’ application will be delivered as a web application for an
 Additionally, for users looking to achieve a savings goal for items such as that all important next holiday, a savings goal feature is included in the application. This allows users to set an amount they would like to reach as a goal and a date to reach the goal. 
 <br>
 <br>The Savings Goal feature will create a savings plan based on the goal amount and date to provide the user with the minimum amount required to be saved each period to attain their goal, with reports available to track ongoing progress.
+<br>
+<br>
+The following video is an overview of the application.
+<br>
+<br>
+
+https://user-images.githubusercontent.com/84967557/197966993-24b375c2-aa03-4207-a2e6-23d3f32899d4.mp4
+
